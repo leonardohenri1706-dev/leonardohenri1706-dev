@@ -2,9 +2,7 @@
 
 **`Software Engineer | Full Stack, Interactive Web & AI Integrations`**
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3ECF8E&width=550&lines=Building+High-Performance+Web+%2B+3D+Experiences;Three.js+%2B+GSAP+%2B+Next.js+%2B+Tailwind;AI-Driven+Self-Evolving+Second+Brain;Workflow+Automation+%26+Conversion+Optimization" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3ECF8E&width=550&lines=Building+High-Performance+Web+%2B+3D+Experiences;Three.js+%2B+GSAP+%2B+Next.js+%2B+Tailwind;AI-Driven+Self-Evolving+Second+Brain;Workflow+Automation+%26+Conversion+Optimization)
 
 Olá! Sou o **Leonardo Henrique**, Software Engineer focado na construção de aplicações web e mobile de alta performance, interfaces 3D imersivas e integração avançada de **Inteligência Artificial** para otimização de processos e produtividade.
 
@@ -50,29 +48,6 @@ Especialista em unir engenharia de software sólida a animações fluidas e inte
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-### 📈 Estatísticas & Produtividade no GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonardohenri1706-dev&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true" alt="Trophy Rack" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardohenri1706-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&border_radius=8" height="170" alt="Estatísticas Gerais" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardohenri1706-dev&theme=tokyonight&border_radius=8" height="170" alt="Ofensiva de Commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohenri1706-dev&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Utilizadas&langs_count=8&border_radius=8" height="165" alt="Linguagens Principais" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardohenri1706-dev&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=e0af68&area=true&hide_border=true" width="95%" alt="Gráfico de Atividade" />
-</p>
 
 ---
 
